@@ -1,0 +1,9 @@
+{
+  "extract-zip": "github:fabriccore/extract-zip-js",
+  "require": "github:fabriccore/require-js",
+  "fetch": "github:fabriccore/fetch-js",
+  "rinode": "github:fabriccore/rinode-js",
+  "promise": "github:fabriccore/promise-js",
+  "fs": "github:fabriccore/fs-js",
+  "console": "github:fabriccore/console-js"
+}
