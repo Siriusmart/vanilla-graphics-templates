@@ -50,7 +50,7 @@
 |---|---|---|---|
 |[console](./packages/console)|0.1.0|06/30/25 - 10:48|Provides the console object.|
 |[extract-zip](./packages/extract-zip)|0.1.0|06/30/25 - 10:48|Extract zip file to directory.|
-|[fetch](./packages/fetch)|0.1.0|06/30/25 - 10:48|Provides the fetch API.|
+|[fetch](./packages/fetch)|0.1.1|06/30/25 - 12:53|Provides the fetch API.|
 |[fs](./packages/fs)|0.1.0|06/30/25 - 10:48|Provides the fs object.|
 |[promise](./packages/promise)|0.1.0|06/30/25 - 10:48|Provides the promise object.|
 |[require](./packages/require)|0.1.0|06/30/25 - 10:48|Provides the require function.|

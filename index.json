@@ -10,8 +10,8 @@
     "description": "Provides the require function."
   },
   "fetch": {
-    "version": "0.1.0",
-    "updated": 1751276918,
+    "version": "0.1.1",
+    "updated": 1751284390,
     "description": "Provides the fetch API."
   },
   "rinode": {
