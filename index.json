@@ -5,8 +5,8 @@
     "description": "Extract zip file to directory."
   },
   "require": {
-    "version": "0.1.0",
-    "updated": 1751276918,
+    "version": "0.1.1",
+    "updated": 1751298332,
     "description": "Provides the require function."
   },
   "fetch": {
@@ -25,8 +25,8 @@
     "description": "Provides the promise object."
   },
   "fs": {
-    "version": "0.1.0",
-    "updated": 1751276918,
+    "version": "0.1.1",
+    "updated": 1751298332,
     "description": "Provides the fs object."
   },
   "console": {

@@ -108,11 +108,10 @@ const now = Math.floor(Date.now() / 1000);
                 let newVersion = res.version.split(".").map(parseInt);
 
                 if (newVersion <= currentVersion) {
-                    /*
-                console.error(
-                    `Seed "${packageName}" failed test: ${currentManifest.version} is not newer than ${res.version}`,
-                );
-                */
+                    if (!pullAll)
+                        console.error(
+                            `Seed "${packageName}" failed test: ${currentManifest.version} is not newer than ${res.version}`,
+                        );
                     continue;
                 }
             }
@@ -143,6 +142,7 @@ const now = Math.floor(Date.now() / 1000);
     await Promise.all(downloadRequests);
 
     for (let name of packagesToPull) {
+        console.log(`Pulled ${name}`);
         fs.mkdirSync(`./packages/${name}/releases/`, { recursive: true });
         fs.renameSync(
             `./pulling/${name}.zip`,

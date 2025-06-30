@@ -14,4 +14,5 @@ Provides the require function.
 
 |Version|Updated|Download|
 |---|---|---|
+|0.1.1|06/30/25 - 16:45|[0.1.1.zip](./releases/0.1.1.zip)|
 |0.1.0|06/30/25 - 10:48|[0.1.0.zip](./releases/0.1.0.zip)|
