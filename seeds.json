@@ -7,5 +7,6 @@
   "fs": "github:fabriccore/fs-js",
   "console": "github:fabriccore/console-js",
   "dummy1": "github:fabriccore/dummy1-js",
-  "dummy2": "github:fabriccore/dummy2-js"
+  "dummy2": "github:fabriccore/dummy2-js",
+  "pully": "github:fabriccore/pully-js"
 }

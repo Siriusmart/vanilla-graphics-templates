@@ -25,8 +25,8 @@
     "description": "Provides the promise object."
   },
   "fs": {
-    "version": "0.1.1",
-    "updated": 1751298332,
+    "version": "0.1.2",
+    "updated": 1751408055,
     "description": "Provides the fs object."
   },
   "console": {
@@ -43,5 +43,10 @@
     "version": "0.1.0",
     "updated": 1751393819,
     "description": "Dummy package."
+  },
+  "pully": {
+    "version": "0.1.0",
+    "updated": 1751408055,
+    "description": "Package manager."
   }
 }
