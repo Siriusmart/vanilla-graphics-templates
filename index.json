@@ -33,5 +33,15 @@
     "version": "0.1.0",
     "updated": 1751276918,
     "description": "Provides the console object."
+  },
+  "dummy1": {
+    "version": "0.1.0",
+    "updated": 1751393819,
+    "description": "Dummy package."
+  },
+  "dummy2": {
+    "version": "0.1.0",
+    "updated": 1751393819,
+    "description": "Dummy package."
   }
 }

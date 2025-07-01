@@ -49,6 +49,8 @@
 |Package|Version|Updated|Description|
 |---|---|---|---|
 |[console](./packages/console)|0.1.0|06/30/25 - 10:48|Provides the console object.|
+|[dummy1](./packages/dummy1)|0.1.0|07/01/25 - 19:16|Dummy package.|
+|[dummy2](./packages/dummy2)|0.1.0|07/01/25 - 19:16|Dummy package.|
 |[extract-zip](./packages/extract-zip)|0.1.0|06/30/25 - 10:48|Extract zip file to directory.|
 |[fetch](./packages/fetch)|0.1.1|06/30/25 - 12:53|Provides the fetch API.|
 |[fs](./packages/fs)|0.1.1|06/30/25 - 16:45|Provides the fs object.|
