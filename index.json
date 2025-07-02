@@ -48,5 +48,10 @@
     "version": "0.1.0",
     "updated": 1751408055,
     "description": "Package manager."
+  },
+  "command": {
+    "version": "0.1.0",
+    "updated": 1751470255,
+    "description": "Declarative command registration."
   }
 }

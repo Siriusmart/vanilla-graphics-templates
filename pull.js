@@ -14,7 +14,7 @@ const now = Math.floor(Date.now() / 1000);
     let pullAll = process.argv.includes("-A");
 
     if (packagesToPull.length == 0) {
-        console.log("Not packages specified, defaulting to -A");
+        console.log("No packages specified, defaulting to -A");
         pullAll = true;
     }
 

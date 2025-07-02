@@ -48,6 +48,7 @@
 <!--begin:packages-->
 |Package|Version|Updated|Description|
 |---|---|---|---|
+|[command](./packages/command)|0.1.0|07/02/25 - 16:30|Declarative command registration.|
 |[console](./packages/console)|0.1.0|06/30/25 - 10:48|Provides the console object.|
 |[dummy1](./packages/dummy1)|0.1.0|07/01/25 - 19:16|Dummy package.|
 |[dummy2](./packages/dummy2)|0.1.0|07/01/25 - 19:16|Dummy package.|
