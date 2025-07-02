@@ -45,13 +45,13 @@
     "description": "Dummy package."
   },
   "pully": {
-    "version": "0.1.0",
-    "updated": 1751408055,
+    "version": "0.1.1",
+    "updated": 1751477862,
     "description": "Package manager."
   },
   "command": {
-    "version": "0.1.0",
-    "updated": 1751470255,
+    "version": "0.1.1",
+    "updated": 1751477862,
     "description": "Declarative command registration."
   }
 }
