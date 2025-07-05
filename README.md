@@ -48,7 +48,7 @@
 <!--begin:packages-->
 |Package|Version|Updated|Description|
 |---|---|---|---|
-|[command](./packages/command)|0.1.1|07/02/25 - 18:37|Declarative command registration.|
+|[command](./packages/command)|0.1.2|07/05/25 - 17:20|Declarative command registration.|
 |[console](./packages/console)|0.1.0|06/30/25 - 10:48|Provides the console object.|
 |[dummy1](./packages/dummy1)|0.1.0|07/01/25 - 19:16|Dummy package.|
 |[dummy2](./packages/dummy2)|0.1.0|07/01/25 - 19:16|Dummy package.|
@@ -56,7 +56,7 @@
 |[fetch](./packages/fetch)|0.1.1|06/30/25 - 12:53|Provides the fetch API.|
 |[fs](./packages/fs)|0.1.2|07/01/25 - 23:14|Provides the fs object.|
 |[promise](./packages/promise)|0.1.0|06/30/25 - 10:48|Provides the promise object.|
-|[pully](./packages/pully)|0.1.1|07/02/25 - 18:37|Package manager.|
+|[pully](./packages/pully)|0.1.2|07/05/25 - 17:20|Package manager.|
 |[require](./packages/require)|0.1.1|06/30/25 - 16:45|Provides the require function.|
 |[rinode](./packages/rinode)|0.1.0|06/30/25 - 10:48|Node.js simulator for Rhino.|
 <!--end:packages-->
