@@ -199,10 +199,12 @@ const now = Math.floor(Date.now() / 1000);
             readme += "|Package|Version|" + "\n";
             readme += "|---|---|" + "\n";
             readme +=
-                Object.entries(pulledManifests[name].dependencies).map(
-                    ([name, version]) =>
-                        `|${seeds[name] ? `[${name}](../${name})` : name}|${version}|\n`,
-                ) + "\n";
+                Object.entries(pulledManifests[name].dependencies)
+                    .map(
+                        ([name, version]) =>
+                            `|${seeds[name] ? `[${name}](../${name})` : name}|${version}|\n`,
+                    )
+                    .join("\n") + "\n";
         }
 
         readme +=
