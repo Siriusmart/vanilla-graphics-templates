@@ -104,8 +104,8 @@ const now = Math.floor(Date.now() / 1000);
                 );
                 let currentVersion = currentManifest.version
                     .split(".")
-                    .map(parseInt);
-                let newVersion = res.version.split(".").map(parseInt);
+                    .map((n) => parseInt(n));
+                let newVersion = res.version.split(".").map((n) => parseInt(n));
 
                 if (newVersion <= currentVersion) {
                     if (!pullAll)
@@ -174,7 +174,8 @@ const now = Math.floor(Date.now() / 1000);
             updated: now,
         });
         versionsJSON.versions.sort((a, b) =>
-            a.label.split(".").map(parseInt) < b.label.split(".").map(parseInt)
+            a.label.split(".").map((n) => parseInt(n)) <
+            b.label.split(".").map((n) => parseInt(n))
                 ? 1
                 : -1,
         );
@@ -204,7 +205,7 @@ const now = Math.floor(Date.now() / 1000);
                         ([name, version]) =>
                             `|${seeds[name] ? `[${name}](../${name})` : name}|${version}|\n`,
                     )
-                    .join("\n") + "\n";
+                    .join("") + "\n";
         }
 
         readme +=
