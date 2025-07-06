@@ -9,5 +9,6 @@
   "dummy1": "github:fabriccore/dummy1-js",
   "dummy2": "github:fabriccore/dummy2-js",
   "pully": "github:fabriccore/pully-js",
-  "command": "github:fabriccore/command-js"
+  "command": "github:fabriccore/command-js",
+  "devtools": "github:fabriccore/devtools-js"
 }

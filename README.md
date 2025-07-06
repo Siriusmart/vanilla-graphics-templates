@@ -50,6 +50,7 @@
 |---|---|---|---|
 |[command](./packages/command)|0.1.2|07/05/25 - 17:20|Declarative command registration.|
 |[console](./packages/console)|0.1.0|06/30/25 - 10:48|Provides the console object.|
+|[devtools](./packages/devtools)|0.1.0|07/06/25 - 13:02|Developer's best friend.|
 |[dummy1](./packages/dummy1)|0.1.0|07/01/25 - 19:16|Dummy package.|
 |[dummy2](./packages/dummy2)|0.1.0|07/01/25 - 19:16|Dummy package.|
 |[extract-zip](./packages/extract-zip)|0.1.0|06/30/25 - 10:48|Extract zip file to directory.|

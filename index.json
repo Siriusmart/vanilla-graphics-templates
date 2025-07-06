@@ -53,5 +53,10 @@
     "version": "0.1.2",
     "updated": 1751732427,
     "description": "Declarative command registration."
+  },
+  "devtools": {
+    "version": "0.1.0",
+    "updated": 1751803348,
+    "description": "Developer's best friend."
   }
 }
