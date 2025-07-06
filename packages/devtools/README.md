@@ -15,4 +15,5 @@ Developer's best friend.
 
 |Version|Updated|Download|
 |---|---|---|
+|0.1.1|07/06/25 - 18:34|[0.1.1.zip](./releases/0.1.1.zip)|
 |0.1.0|07/06/25 - 13:02|[0.1.0.zip](./releases/0.1.0.zip)|
