@@ -15,8 +15,8 @@
     "description": "Provides the fetch API."
   },
   "rinode": {
-    "version": "0.1.0",
-    "updated": 1751276918,
+    "version": "0.1.1",
+    "updated": 1751805005,
     "description": "Node.js simulator for Rhino."
   },
   "promise": {
@@ -58,5 +58,10 @@
     "version": "0.1.0",
     "updated": 1751803348,
     "description": "Developer's best friend."
+  },
+  "timer": {
+    "version": "0.1.0",
+    "updated": 1751805018,
+    "description": "Provide the setTimeout and setInterval methods."
   }
 }

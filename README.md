@@ -59,5 +59,6 @@
 |[promise](./packages/promise)|0.1.0|06/30/25 - 10:48|Provides the promise object.|
 |[pully](./packages/pully)|0.1.3|07/05/25 - 23:22|Package manager.|
 |[require](./packages/require)|0.1.1|06/30/25 - 16:45|Provides the require function.|
-|[rinode](./packages/rinode)|0.1.0|06/30/25 - 10:48|Node.js simulator for Rhino.|
+|[rinode](./packages/rinode)|0.1.1|07/06/25 - 13:30|Node.js simulator for Rhino.|
+|[timer](./packages/timer)|0.1.0|07/06/25 - 13:30|Provide the setTimeout and setInterval methods.|
 <!--end:packages-->
