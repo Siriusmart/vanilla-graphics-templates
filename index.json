@@ -45,8 +45,8 @@
     "description": "Dummy package."
   },
   "pully": {
-    "version": "0.1.5",
-    "updated": 1751819318,
+    "version": "0.1.6",
+    "updated": 1751829977,
     "description": "Package manager."
   },
   "command": {

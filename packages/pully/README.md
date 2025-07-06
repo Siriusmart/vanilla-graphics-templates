@@ -16,6 +16,7 @@ Package manager.
 
 |Version|Updated|Download|
 |---|---|---|
+|0.1.6|07/06/25 - 20:26|[0.1.6.zip](./releases/0.1.6.zip)|
 |0.1.5|07/06/25 - 17:28|[0.1.5.zip](./releases/0.1.5.zip)|
 |0.1.4|07/06/25 - 14:37|[0.1.4.zip](./releases/0.1.4.zip)|
 |0.1.3|07/05/25 - 23:22|[0.1.3.zip](./releases/0.1.3.zip)|
