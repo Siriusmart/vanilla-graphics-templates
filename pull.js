@@ -190,40 +190,6 @@ const now = Math.floor(Date.now() / 1000);
             updated: now,
             description: pulledManifests[name].description,
         };
-
-        let readme = "# " + name + "\n\n";
-
-        readme += pulledManifests[name].description + "\n\n";
-
-        if (Object.keys(pulledManifests[name].dependencies).length != 0) {
-            readme += "### Dependencies" + "\n\n";
-            readme += "|Package|Version|" + "\n";
-            readme += "|---|---|" + "\n";
-            readme +=
-                Object.entries(pulledManifests[name].dependencies)
-                    .map(
-                        ([name, version]) =>
-                            `|${seeds[name] ? `[${name}](../${name})` : name}|${version}|\n`,
-                    )
-                    .join("") + "\n";
-        }
-
-        readme +=
-            `// Seed info: [Repository](${seeds[name].repoURL}) | [Manifest](${seeds[name].manifestURL}) | [Release](${seeds[name].releaseURL})` +
-            "\n\n";
-
-        readme += "## All Versions" + "\n\n";
-        readme += "|Version|Updated|Download|" + "\n";
-        readme += "|---|---|---|" + "\n";
-
-        readme += versionsJSON.versions
-            .map(({ label, updated }) => {
-                updated = strftime("%D - %H:%M", new Date(updated * 1000));
-                return `|${label}|${updated}|[${label}.zip](./releases/${label}.zip)|`;
-            })
-            .join("\n");
-
-        fs.writeFileSync(`./packages/${name}/README.md`, readme);
     }
 
     fs.rmSync("./pulling", { recursive: true, force: true });
@@ -252,4 +218,43 @@ const now = Math.floor(Date.now() / 1000);
         "./README.md",
         `${before}<!--begin:packages-->\n${packagesContent}\n<!--end:packages-->${after}`,
     );
+
+    for (let name of fs.readdirSync("packages")) {
+        let manifest = require(`./packages/${name}/package.json`);
+        let versionsJSON = require(`./packages/${name}/versions.json`);
+
+        let readme = "# " + name + "\n\n";
+
+        readme += manifest.description + "\n\n";
+
+        if (Object.keys(manifest.dependencies).length != 0) {
+            readme += "### Dependencies" + "\n\n";
+            readme += "|Package|Version|" + "\n";
+            readme += "|---|---|" + "\n";
+            readme +=
+                Object.entries(manifest.dependencies)
+                    .map(
+                        ([name, version]) =>
+                            `|${seeds[name] ? `[${name}](../${name})` : name}|${version}|\n`,
+                    )
+                    .join("") + "\n";
+        }
+
+        readme +=
+            `// Seed info: [Repository](${seeds[name].repoURL}) | [Manifest](${seeds[name].manifestURL}) | [Release](${seeds[name].releaseURL})` +
+            "\n\n";
+
+        readme += "## All Versions" + "\n\n";
+        readme += "|Version|Updated|Download|" + "\n";
+        readme += "|---|---|---|" + "\n";
+
+        readme += versionsJSON.versions
+            .map(({ label, updated }) => {
+                updated = strftime("%D - %H:%M", new Date(updated * 1000));
+                return `|${label}|${updated}|[${label}.zip](./releases/${label}.zip)|`;
+            })
+            .join("\n");
+
+        fs.writeFileSync(`./packages/${name}/README.md`, readme);
+    }
 })();

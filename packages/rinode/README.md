@@ -11,7 +11,7 @@ Node.js simulator for Rhino.
 |[require](../require)|0.1.0|
 |[promise](../promise)|0.1.0|
 |[fetch](../fetch)|0.1.0|
-|timer|0.1.0|
+|[timer](../timer)|0.1.0|
 
 // Seed info: [Repository](https://github.com/fabriccore/rinode-js) | [Manifest](https://raw.githubusercontent.com/fabriccore/rinode-js/refs/heads/master/package.json) | [Release](https://github.com/fabriccore/rinode-js/archive/refs/heads/master.zip)
 
