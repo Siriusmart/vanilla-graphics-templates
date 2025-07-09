@@ -30,8 +30,8 @@
     "description": "Provides the fs object."
   },
   "console": {
-    "version": "0.1.0",
-    "updated": 1751276918,
+    "version": "0.1.1",
+    "updated": 1752095700,
     "description": "Provides the console object."
   },
   "dummy1": {
@@ -45,8 +45,8 @@
     "description": "Dummy package."
   },
   "pully": {
-    "version": "0.1.7",
-    "updated": 1751922698,
+    "version": "0.1.8",
+    "updated": 1752095700,
     "description": "Package manager."
   },
   "command": {
@@ -55,8 +55,8 @@
     "description": "Declarative command registration."
   },
   "devtools": {
-    "version": "0.1.1",
-    "updated": 1751823246,
+    "version": "0.1.2",
+    "updated": 1752095700,
     "description": "Developer's best friend."
   },
   "timer": {

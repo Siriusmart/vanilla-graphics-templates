@@ -8,4 +8,5 @@ Provides the console object.
 
 |Version|Updated|Download|
 |---|---|---|
+|0.1.1|07/09/25 - 22:15|[0.1.1.zip](./releases/0.1.1.zip)|
 |0.1.0|06/30/25 - 10:48|[0.1.0.zip](./releases/0.1.0.zip)|
