@@ -45,8 +45,8 @@
     "description": "Dummy package."
   },
   "pully": {
-    "version": "0.1.8",
-    "updated": 1752095700,
+    "version": "0.1.9",
+    "updated": 1752261265,
     "description": "Package manager."
   },
   "command": {
@@ -65,8 +65,8 @@
     "description": "Provide the setTimeout and setInterval methods."
   },
   "listener": {
-    "version": "0.0.1",
-    "updated": 1751819318,
+    "version": "0.0.3",
+    "updated": 1752261265,
     "description": "Event listeners for JSCore."
   }
 }
