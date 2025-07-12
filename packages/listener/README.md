@@ -6,7 +6,7 @@ Event listeners for JSCore.
 
 |Package|Version|
 |---|---|
-|[rinode](../rinode)|0.1.0|
+|[yarn-extra](../yarn-extra)|0.1.0|
 
 // Seed info: [Repository](https://github.com/fabriccore/listener-js) | [Manifest](https://raw.githubusercontent.com/fabriccore/listener-js/refs/heads/master/package.json) | [Release](https://github.com/fabriccore/listener-js/archive/refs/heads/master.zip)
 
@@ -14,5 +14,6 @@ Event listeners for JSCore.
 
 |Version|Updated|Download|
 |---|---|---|
+|0.0.4|07/12/25 - 23:59|[0.0.4.zip](./releases/0.0.4.zip)|
 |0.0.3|07/11/25 - 20:14|[0.0.3.zip](./releases/0.0.3.zip)|
 |0.0.1|07/06/25 - 17:28|[0.0.1.zip](./releases/0.0.1.zip)|

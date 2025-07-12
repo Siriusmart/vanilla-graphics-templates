@@ -12,5 +12,7 @@
   "command": "github:fabriccore/command-js",
   "devtools": "github:fabriccore/devtools-js",
   "timer": "github:fabriccore/timer-js",
-  "listener": "github:fabriccore/listener-js"
+  "listener": "github:fabriccore/listener-js",
+  "yarn-extra": "github:fabriccore/yarn-extra-js",
+  "fabric-api-events": "github:fabriccore/fabric-api-events-js"
 }

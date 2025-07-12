@@ -1,7 +1,7 @@
 {
-  "name": "listener",
-  "version": "0.0.4",
-  "description": "Event listeners for JSCore.",
+  "name": "yarn-extra",
+  "version": "0.1.0",
+  "description": "Yarn helper functions.",
   "keywords": [],
   "license": "LGPL-3.0-or-later",
   "author": {
@@ -11,9 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fabriccore/listener-js"
+    "url": "https://github.com/fabriccore/yarn-extra-js"
   },
-  "dependencies": {
-    "yarn-extra": "0.1.0"
-  }
+  "dependencies": {}
 }

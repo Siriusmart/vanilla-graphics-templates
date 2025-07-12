@@ -30,7 +30,7 @@
 > 
 > 1. Git clone the repository.
 > 2. Add an entry to seeds.json
-> 3. Run `node pull.js` (You may need to run `npm install` before this.)
+> 3. Run `node pull` (You may need to run `npm install` before this.)
 > 4. Push
 
 ## Resources
@@ -54,12 +54,14 @@
 |[dummy1](./packages/dummy1)|0.1.0|07/01/25 - 19:16|Dummy package.|
 |[dummy2](./packages/dummy2)|0.1.0|07/01/25 - 19:16|Dummy package.|
 |[extract-zip](./packages/extract-zip)|0.1.0|06/30/25 - 10:48|Extract zip file to directory.|
+|[fabric-api-events](./packages/fabric-api-events)|0.0.1|07/12/25 - 23:59|Event listeners for Fabric API events|
 |[fetch](./packages/fetch)|0.1.1|06/30/25 - 12:53|Provides the fetch API.|
 |[fs](./packages/fs)|0.1.3|07/06/25 - 17:28|Provides the fs object.|
-|[listener](./packages/listener)|0.0.3|07/11/25 - 20:14|Event listeners for JSCore.|
+|[listener](./packages/listener)|0.0.4|07/12/25 - 23:59|Event listeners for JSCore.|
 |[promise](./packages/promise)|0.1.0|06/30/25 - 10:48|Provides the promise object.|
 |[pully](./packages/pully)|0.1.9|07/11/25 - 20:14|Package manager.|
 |[require](./packages/require)|0.1.1|06/30/25 - 16:45|Provides the require function.|
 |[rinode](./packages/rinode)|0.1.1|07/06/25 - 13:30|Node.js simulator for Rhino.|
 |[timer](./packages/timer)|0.1.0|07/06/25 - 13:30|Provide the setTimeout and setInterval methods.|
+|[yarn-extra](./packages/yarn-extra)|0.1.0|07/13/25 - 00:00|Yarn helper functions.|
 <!--end:packages-->
