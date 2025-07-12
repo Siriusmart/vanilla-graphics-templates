@@ -57,7 +57,7 @@
 |[fabric-api-events](./packages/fabric-api-events)|0.0.1|07/12/25 - 23:59|Event listeners for Fabric API events|
 |[fetch](./packages/fetch)|0.1.1|06/30/25 - 12:53|Provides the fetch API.|
 |[fs](./packages/fs)|0.1.3|07/06/25 - 17:28|Provides the fs object.|
-|[listener](./packages/listener)|0.0.4|07/12/25 - 23:59|Event listeners for JSCore.|
+|[listener](./packages/listener)|0.0.5|07/13/25 - 00:39|Event listeners for JSCore.|
 |[promise](./packages/promise)|0.1.0|06/30/25 - 10:48|Provides the promise object.|
 |[pully](./packages/pully)|0.1.9|07/11/25 - 20:14|Package manager.|
 |[require](./packages/require)|0.1.1|06/30/25 - 16:45|Provides the require function.|

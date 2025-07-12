@@ -65,8 +65,8 @@
     "description": "Provide the setTimeout and setInterval methods."
   },
   "listener": {
-    "version": "0.0.4",
-    "updated": 1752361141,
+    "version": "0.0.5",
+    "updated": 1752363562,
     "description": "Event listeners for JSCore."
   },
   "fabric-api-events": {
