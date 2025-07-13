@@ -70,8 +70,8 @@
     "description": "Event listeners for JSCore."
   },
   "fabric-api-events": {
-    "version": "0.0.1",
-    "updated": 1752361141,
+    "version": "0.0.2",
+    "updated": 1752414330,
     "description": "Event listeners for Fabric API events"
   },
   "yarn-extra": {

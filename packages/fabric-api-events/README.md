@@ -15,4 +15,5 @@ Event listeners for Fabric API events
 
 |Version|Updated|Download|
 |---|---|---|
+|0.0.2|07/13/25 - 14:45|[0.0.2.zip](./releases/0.0.2.zip)|
 |0.0.1|07/12/25 - 23:59|[0.0.1.zip](./releases/0.0.1.zip)|
