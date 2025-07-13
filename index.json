@@ -65,8 +65,8 @@
     "description": "Provide the setTimeout and setInterval methods."
   },
   "listener": {
-    "version": "0.0.5",
-    "updated": 1752363562,
+    "version": "0.1.0",
+    "updated": 1752440555,
     "description": "Event listeners for JSCore."
   },
   "fabric-api-events": {
@@ -83,5 +83,10 @@
     "version": "0.1.0",
     "updated": 1752417389,
     "description": "Saves a JSON file of all available events."
+  },
+  "chat": {
+    "version": "0.1.0",
+    "updated": 1752440555,
+    "description": "Helper methods for the in-game chat."
   }
 }

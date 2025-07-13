@@ -15,5 +15,6 @@
   "listener": "github:fabriccore/listener-js",
   "yarn-extra": "github:fabriccore/yarn-extra-js",
   "fabric-api-events": "github:fabriccore/fabric-api-events-js",
-  "print-events": "github:fabriccore/print-events-js"
+  "print-events": "github:fabriccore/print-events-js",
+  "chat": "github:fabriccore/chat-js"
 }
