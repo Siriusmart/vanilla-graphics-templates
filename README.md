@@ -58,6 +58,7 @@
 |[fetch](./packages/fetch)|0.1.1|06/30/25 - 12:53|Provides the fetch API.|
 |[fs](./packages/fs)|0.1.3|07/06/25 - 17:28|Provides the fs object.|
 |[listener](./packages/listener)|0.0.5|07/13/25 - 00:39|Event listeners for JSCore.|
+|[print-events](./packages/print-events)|0.1.0|07/13/25 - 15:36|Saves a JSON file of all available events.|
 |[promise](./packages/promise)|0.1.0|06/30/25 - 10:48|Provides the promise object.|
 |[pully](./packages/pully)|0.1.9|07/11/25 - 20:14|Package manager.|
 |[require](./packages/require)|0.1.1|06/30/25 - 16:45|Provides the require function.|

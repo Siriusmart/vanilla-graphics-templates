@@ -78,5 +78,10 @@
     "version": "0.1.0",
     "updated": 1752361238,
     "description": "Yarn helper functions."
+  },
+  "print-events": {
+    "version": "0.1.0",
+    "updated": 1752417389,
+    "description": "Saves a JSON file of all available events."
   }
 }

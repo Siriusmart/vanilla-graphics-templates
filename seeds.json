@@ -14,5 +14,6 @@
   "timer": "github:fabriccore/timer-js",
   "listener": "github:fabriccore/listener-js",
   "yarn-extra": "github:fabriccore/yarn-extra-js",
-  "fabric-api-events": "github:fabriccore/fabric-api-events-js"
+  "fabric-api-events": "github:fabriccore/fabric-api-events-js",
+  "print-events": "github:fabriccore/print-events-js"
 }
