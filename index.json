@@ -90,8 +90,8 @@
     "description": "Helper methods for the in-game chat."
   },
   "updater": {
-    "version": "0.1.0",
-    "updated": 1752497161,
+    "version": "0.1.1",
+    "updated": 1752497349,
     "description": "Notify you when there is an update."
   }
 }

@@ -19,4 +19,5 @@ Notify you when there is an update.
 
 |Version|Updated|Download|
 |---|---|---|
+|0.1.1|07/14/25 - 13:49|[0.1.1.zip](./releases/0.1.1.zip)|
 |0.1.0|07/14/25 - 13:46|[0.1.0.zip](./releases/0.1.0.zip)|
