@@ -64,7 +64,7 @@
 |[pully](./packages/pully)|0.1.9|07/11/25 - 20:14|Package manager.|
 |[require](./packages/require)|0.1.1|06/30/25 - 16:45|Provides the require function.|
 |[rinode](./packages/rinode)|0.1.1|07/06/25 - 13:30|Node.js simulator for Rhino.|
-|[text](./packages/text)|0.1.1|07/15/25 - 22:49|Helper methods for Text related things.|
+|[text](./packages/text)|0.1.2|07/15/25 - 23:13|Helper methods for Text related things.|
 |[timer](./packages/timer)|0.1.0|07/06/25 - 13:30|Provide the setTimeout and setInterval methods.|
 |[translate](./packages/translate)|0.1.0|07/15/25 - 21:28|Adds a small button next to each message to translate that message with LibreTranslate.|
 |[updater](./packages/updater)|0.1.1|07/14/25 - 13:49|Notify you when there is an update.|

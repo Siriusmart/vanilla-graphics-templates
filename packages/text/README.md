@@ -15,5 +15,6 @@ Helper methods for Text related things.
 
 |Version|Updated|Download|
 |---|---|---|
+|0.1.2|07/15/25 - 23:13|[0.1.2.zip](./releases/0.1.2.zip)|
 |0.1.1|07/15/25 - 22:49|[0.1.1.zip](./releases/0.1.1.zip)|
 |0.1.0|07/15/25 - 21:28|[0.1.0.zip](./releases/0.1.0.zip)|
