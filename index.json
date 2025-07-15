@@ -10,8 +10,8 @@
     "description": "Provides the require function."
   },
   "fetch": {
-    "version": "0.1.1",
-    "updated": 1751284390,
+    "version": "0.1.2",
+    "updated": 1752611291,
     "description": "Provides the fetch API."
   },
   "rinode": {
@@ -30,8 +30,8 @@
     "description": "Provides the fs object."
   },
   "console": {
-    "version": "0.1.1",
-    "updated": 1752095700,
+    "version": "0.1.2",
+    "updated": 1752611291,
     "description": "Provides the console object."
   },
   "dummy1": {
@@ -65,13 +65,13 @@
     "description": "Provide the setTimeout and setInterval methods."
   },
   "listener": {
-    "version": "0.1.0",
-    "updated": 1752440555,
+    "version": "0.1.1",
+    "updated": 1752611291,
     "description": "Event listeners for JSCore."
   },
   "fabric-api-events": {
-    "version": "0.1.1",
-    "updated": 1752527258,
+    "version": "0.1.2",
+    "updated": 1752611291,
     "description": "Event listeners for Fabric API events"
   },
   "yarn-extra": {
@@ -93,5 +93,15 @@
     "version": "0.1.1",
     "updated": 1752497349,
     "description": "Notify you when there is an update."
+  },
+  "translate": {
+    "version": "0.1.0",
+    "updated": 1752611291,
+    "description": "Adds a small button next to each message to translate that message with LibreTranslate."
+  },
+  "text": {
+    "version": "0.1.0",
+    "updated": 1752611291,
+    "description": "Helper methods for Text related things."
   }
 }
