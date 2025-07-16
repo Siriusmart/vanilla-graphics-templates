@@ -62,7 +62,7 @@
 |[listener](./packages/listener)|0.1.1|07/15/25 - 21:28|Event listeners for JSCore.|
 |[print-events](./packages/print-events)|0.1.0|07/13/25 - 15:36|Saves a JSON file of all available events.|
 |[promise](./packages/promise)|0.1.0|06/30/25 - 10:48|Provides the promise object.|
-|[pully](./packages/pully)|0.1.9|07/11/25 - 20:14|Package manager.|
+|[pully](./packages/pully)|0.1.11|07/16/25 - 23:33|Package manager.|
 |[require](./packages/require)|0.1.1|06/30/25 - 16:45|Provides the require function.|
 |[rinode](./packages/rinode)|0.1.1|07/06/25 - 13:30|Node.js simulator for Rhino.|
 |[text](./packages/text)|0.1.3|07/16/25 - 16:22|Helper methods for Text related things.|

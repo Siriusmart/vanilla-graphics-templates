@@ -107,16 +107,28 @@ const now = Math.floor(Date.now() / 1000);
                     .map((n) => parseInt(n));
                 let newVersion = res.version.split(".").map((n) => parseInt(n));
 
-                if (newVersion <= currentVersion) {
+                function shouldUpdate() {
+                    for (
+                        let i = 0;
+                        i < Math.min(currentVersion.length, newVersion.length);
+                        i++
+                    ) {
+                        if (currentVersion[i] > newVersion[i]) return false;
+                        if (currentVersion[i] < newVersion[i]) return true;
+                    }
+
+                    return currentVersion.length < newVersion.length;
+                }
+
+                if (shouldUpdate()) {
+                    pulledManifests[packageName] = res;
+                } else {
                     if (!pullAll)
                         console.error(
                             `Seed "${packageName}" failed test: ${currentManifest.version} is not newer than ${res.version}`,
                         );
-                    continue;
                 }
             }
-
-            pulledManifests[packageName] = res;
         } catch (error) {
             console.log("An error occured when pulling " + packageName);
             console.error(error);
