@@ -17,4 +17,5 @@ Adds a small button next to each message to translate that message with LibreTra
 
 |Version|Updated|Download|
 |---|---|---|
+|0.1.1|07/16/25 - 16:22|[0.1.1.zip](./releases/0.1.1.zip)|
 |0.1.0|07/15/25 - 21:28|[0.1.0.zip](./releases/0.1.0.zip)|

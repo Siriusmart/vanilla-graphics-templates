@@ -95,13 +95,13 @@
     "description": "Notify you when there is an update."
   },
   "translate": {
-    "version": "0.1.0",
-    "updated": 1752611291,
+    "version": "0.1.1",
+    "updated": 1752679346,
     "description": "Adds a small button next to each message to translate that message with LibreTranslate."
   },
   "text": {
-    "version": "0.1.2",
-    "updated": 1752617618,
+    "version": "0.1.3",
+    "updated": 1752679346,
     "description": "Helper methods for Text related things."
   }
 }
