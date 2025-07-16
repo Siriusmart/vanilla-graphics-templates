@@ -19,5 +19,6 @@
   "chat": "github:fabriccore/chat-js",
   "updater": "github:fabriccore/updater-js",
   "translate": "github:fabriccore/translate-js",
-  "text": "github:fabriccore/text-js"
+  "text": "github:fabriccore/text-js",
+  "config": "github:fabriccore/config-js"
 }
