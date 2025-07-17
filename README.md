@@ -49,7 +49,7 @@
 |Package|Version|Updated|Description|
 |---|---|---|---|
 |[chat](./packages/chat)|0.1.0|07/13/25 - 22:02|Helper methods for the in-game chat.|
-|[command](./packages/command)|0.1.4|07/07/25 - 22:11|Declarative command registration.|
+|[command](./packages/command)|0.1.5|07/17/25 - 09:01|Declarative command registration.|
 |[config](./packages/config)|0.1.0|07/16/25 - 22:42|Write on quit config.|
 |[console](./packages/console)|0.1.2|07/15/25 - 21:28|Provides the console object.|
 |[devtools](./packages/devtools)|0.1.2|07/09/25 - 22:15|Developer's best friend.|

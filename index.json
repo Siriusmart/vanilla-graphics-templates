@@ -50,8 +50,8 @@
     "description": "Package manager."
   },
   "command": {
-    "version": "0.1.4",
-    "updated": 1751922698,
+    "version": "0.1.5",
+    "updated": 1752739272,
     "description": "Declarative command registration."
   },
   "devtools": {
