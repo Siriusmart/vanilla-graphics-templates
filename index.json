@@ -25,8 +25,8 @@
     "description": "Provides the promise object."
   },
   "fs": {
-    "version": "0.1.5",
-    "updated": 1752764487,
+    "version": "0.1.6",
+    "updated": 1752779543,
     "description": "Provides the fs object."
   },
   "console": {
@@ -50,13 +50,13 @@
     "description": "Package manager."
   },
   "command": {
-    "version": "0.1.5",
-    "updated": 1752739272,
+    "version": "0.1.6",
+    "updated": 1752779543,
     "description": "Declarative command registration."
   },
   "devtools": {
-    "version": "0.1.4",
-    "updated": 1752764487,
+    "version": "0.1.5",
+    "updated": 1752779543,
     "description": "Developer's best friend."
   },
   "timer": {
@@ -100,13 +100,13 @@
     "description": "Adds a small button next to each message to translate that message with LibreTranslate."
   },
   "text": {
-    "version": "0.1.5",
-    "updated": 1752751169,
+    "version": "0.1.6",
+    "updated": 1752779543,
     "description": "Helper methods for Text related things."
   },
   "config": {
-    "version": "0.1.0",
-    "updated": 1752702147,
+    "version": "0.1.1",
+    "updated": 1752779543,
     "description": "Write on quit config."
   }
 }
