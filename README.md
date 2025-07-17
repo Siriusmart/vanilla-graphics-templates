@@ -52,13 +52,13 @@
 |[command](./packages/command)|0.1.5|07/17/25 - 09:01|Declarative command registration.|
 |[config](./packages/config)|0.1.0|07/16/25 - 22:42|Write on quit config.|
 |[console](./packages/console)|0.1.2|07/15/25 - 21:28|Provides the console object.|
-|[devtools](./packages/devtools)|0.1.3|07/17/25 - 13:08|Developer's best friend.|
+|[devtools](./packages/devtools)|0.1.4|07/17/25 - 16:01|Developer's best friend.|
 |[dummy1](./packages/dummy1)|0.1.0|07/01/25 - 19:16|Dummy package.|
 |[dummy2](./packages/dummy2)|0.1.0|07/01/25 - 19:16|Dummy package.|
 |[extract-zip](./packages/extract-zip)|0.1.0|06/30/25 - 10:48|Extract zip file to directory.|
 |[fabric-api-events](./packages/fabric-api-events)|0.1.2|07/15/25 - 21:28|Event listeners for Fabric API events|
 |[fetch](./packages/fetch)|0.1.2|07/15/25 - 21:28|Provides the fetch API.|
-|[fs](./packages/fs)|0.1.4|07/17/25 - 13:08|Provides the fs object.|
+|[fs](./packages/fs)|0.1.5|07/17/25 - 16:01|Provides the fs object.|
 |[listener](./packages/listener)|0.1.1|07/15/25 - 21:28|Event listeners for JSCore.|
 |[print-events](./packages/print-events)|0.1.0|07/13/25 - 15:36|Saves a JSON file of all available events.|
 |[promise](./packages/promise)|0.1.0|06/30/25 - 10:48|Provides the promise object.|
