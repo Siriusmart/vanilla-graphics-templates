@@ -100,8 +100,8 @@
     "description": "Adds a small button next to each message to translate that message with LibreTranslate."
   },
   "text": {
-    "version": "0.1.3",
-    "updated": 1752679346,
+    "version": "0.1.5",
+    "updated": 1752751169,
     "description": "Helper methods for Text related things."
   },
   "config": {
