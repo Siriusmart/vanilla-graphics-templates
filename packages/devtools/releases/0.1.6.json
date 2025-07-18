@@ -1,7 +1,7 @@
 {
-  "name": "pully",
-  "version": "0.1.12",
-  "description": "Package manager.",
+  "name": "devtools",
+  "version": "0.1.6",
+  "description": "Developer's best friend.",
   "keywords": [],
   "license": "LGPL-3.0-or-later",
   "author": {
@@ -11,11 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fabriccore/pully-js"
+    "url": "https://github.com/fabriccore/devtools-js"
   },
   "dependencies": {
     "rinode": "0.1.0",
-    "extract-zip": "0.1.0",
     "command": "0.1.0"
   }
 }

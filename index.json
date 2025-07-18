@@ -45,8 +45,8 @@
     "description": "Dummy package."
   },
   "pully": {
-    "version": "0.1.11",
-    "updated": 1752705219,
+    "version": "0.1.12",
+    "updated": 1752849445,
     "description": "Package manager."
   },
   "command": {
@@ -55,8 +55,8 @@
     "description": "Declarative command registration."
   },
   "devtools": {
-    "version": "0.1.5",
-    "updated": 1752779543,
+    "version": "0.1.7",
+    "updated": 1752852741,
     "description": "Developer's best friend."
   },
   "timer": {
@@ -90,13 +90,13 @@
     "description": "Helper methods for the in-game chat."
   },
   "updater": {
-    "version": "0.1.1",
-    "updated": 1752497349,
+    "version": "0.1.2",
+    "updated": 1752849445,
     "description": "Notify you when there is an update."
   },
   "translate": {
-    "version": "0.1.1",
-    "updated": 1752679346,
+    "version": "0.1.2",
+    "updated": 1752852876,
     "description": "Adds a small button next to each message to translate that message with LibreTranslate."
   },
   "text": {
