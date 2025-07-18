@@ -50,8 +50,8 @@
     "description": "Package manager."
   },
   "command": {
-    "version": "0.1.6",
-    "updated": 1752779543,
+    "version": "0.1.7",
+    "updated": 1752843806,
     "description": "Declarative command registration."
   },
   "devtools": {
@@ -100,13 +100,13 @@
     "description": "Adds a small button next to each message to translate that message with LibreTranslate."
   },
   "text": {
-    "version": "0.1.6",
-    "updated": 1752779543,
+    "version": "0.1.7",
+    "updated": 1752843806,
     "description": "Helper methods for Text related things."
   },
   "config": {
-    "version": "0.1.1",
-    "updated": 1752779543,
+    "version": "0.1.3",
+    "updated": 1752844023,
     "description": "Write on quit config."
   }
 }

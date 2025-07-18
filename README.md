@@ -49,8 +49,8 @@
 |Package|Version|Updated|Description|
 |---|---|---|---|
 |[chat](./packages/chat)|0.1.0|07/13/25 - 22:02|Helper methods for the in-game chat.|
-|[command](./packages/command)|0.1.6|07/17/25 - 20:12|Declarative command registration.|
-|[config](./packages/config)|0.1.1|07/17/25 - 20:12|Write on quit config.|
+|[command](./packages/command)|0.1.7|07/18/25 - 14:03|Declarative command registration.|
+|[config](./packages/config)|0.1.3|07/18/25 - 14:07|Write on quit config.|
 |[console](./packages/console)|0.1.2|07/15/25 - 21:28|Provides the console object.|
 |[devtools](./packages/devtools)|0.1.5|07/17/25 - 20:12|Developer's best friend.|
 |[dummy1](./packages/dummy1)|0.1.0|07/01/25 - 19:16|Dummy package.|
@@ -65,7 +65,7 @@
 |[pully](./packages/pully)|0.1.11|07/16/25 - 23:33|Package manager.|
 |[require](./packages/require)|0.1.1|06/30/25 - 16:45|Provides the require function.|
 |[rinode](./packages/rinode)|0.1.1|07/06/25 - 13:30|Node.js simulator for Rhino.|
-|[text](./packages/text)|0.1.6|07/17/25 - 20:12|Helper methods for Text related things.|
+|[text](./packages/text)|0.1.7|07/18/25 - 14:03|Helper methods for Text related things.|
 |[timer](./packages/timer)|0.1.0|07/06/25 - 13:30|Provide the setTimeout and setInterval methods.|
 |[translate](./packages/translate)|0.1.1|07/16/25 - 16:22|Adds a small button next to each message to translate that message with LibreTranslate.|
 |[updater](./packages/updater)|0.1.1|07/14/25 - 13:49|Notify you when there is an update.|
