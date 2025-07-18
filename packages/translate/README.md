@@ -10,6 +10,7 @@ Adds a small button next to each message to translate that message with LibreTra
 |[text](../text)|0.1.0|
 |[fabric-api-events](../fabric-api-events)|0.1.0|
 |[listener](../listener)|0.1.0|
+|[config](../config)|0.1.0|
 
 // Seed info: [Repository](https://github.com/fabriccore/translate-js) | [Manifest](https://raw.githubusercontent.com/fabriccore/translate-js/refs/heads/master/package.json) | [Release](https://github.com/fabriccore/translate-js/archive/refs/heads/master.zip)
 

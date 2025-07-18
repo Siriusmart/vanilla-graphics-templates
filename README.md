@@ -50,7 +50,7 @@
 |---|---|---|---|
 |[chat](./packages/chat)|0.1.0|07/13/25 - 22:02|Helper methods for the in-game chat.|
 |[command](./packages/command)|0.1.7|07/18/25 - 14:03|Declarative command registration.|
-|[config](./packages/config)|0.1.3|07/18/25 - 14:07|Write on quit config.|
+|[config](./packages/config)|0.1.4|07/18/25 - 22:29|Write on quit config.|
 |[console](./packages/console)|0.1.2|07/15/25 - 21:28|Provides the console object.|
 |[devtools](./packages/devtools)|0.1.7|07/18/25 - 16:32|Developer's best friend.|
 |[dummy1](./packages/dummy1)|0.1.0|07/01/25 - 19:16|Dummy package.|

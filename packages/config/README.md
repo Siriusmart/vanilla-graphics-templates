@@ -16,6 +16,7 @@ Write on quit config.
 
 |Version|Updated|Download|
 |---|---|---|
+|0.1.4|07/18/25 - 22:29|[0.1.4.zip](./releases/0.1.4.zip)|
 |0.1.3|07/18/25 - 14:07|[0.1.3.zip](./releases/0.1.3.zip)|
 |0.1.2|07/18/25 - 14:01|[0.1.2.zip](./releases/0.1.2.zip)|
 |0.1.1|07/17/25 - 20:12|[0.1.1.zip](./releases/0.1.1.zip)|
