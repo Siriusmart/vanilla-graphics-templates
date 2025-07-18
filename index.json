@@ -55,8 +55,8 @@
     "description": "Declarative command registration."
   },
   "devtools": {
-    "version": "0.1.7",
-    "updated": 1752852741,
+    "version": "0.1.8",
+    "updated": 1752876968,
     "description": "Developer's best friend."
   },
   "timer": {

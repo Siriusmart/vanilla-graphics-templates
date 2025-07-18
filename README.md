@@ -52,7 +52,7 @@
 |[command](./packages/command)|0.1.7|07/18/25 - 14:03|Declarative command registration.|
 |[config](./packages/config)|0.1.4|07/18/25 - 22:29|Write on quit config.|
 |[console](./packages/console)|0.1.2|07/15/25 - 21:28|Provides the console object.|
-|[devtools](./packages/devtools)|0.1.7|07/18/25 - 16:32|Developer's best friend.|
+|[devtools](./packages/devtools)|0.1.8|07/18/25 - 23:16|Developer's best friend.|
 |[dummy1](./packages/dummy1)|0.1.0|07/01/25 - 19:16|Dummy package.|
 |[dummy2](./packages/dummy2)|0.1.0|07/01/25 - 19:16|Dummy package.|
 |[extract-zip](./packages/extract-zip)|0.1.0|06/30/25 - 10:48|Extract zip file to directory.|

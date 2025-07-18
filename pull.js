@@ -51,7 +51,7 @@ const now = Math.floor(Date.now() / 1000);
         packagesToPull = Object.keys(seeds);
     } else {
         packagesToPull = packagesToPull.filter(
-            (name) => packagesToPull[name] !== undefined,
+            (name) => seeds[name] !== undefined,
         );
     }
 
