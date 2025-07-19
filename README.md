@@ -59,7 +59,7 @@
 |[fabric-api-events](./packages/fabric-api-events)|0.1.2|07/15/25 - 21:28|Event listeners for Fabric API events|
 |[fetch](./packages/fetch)|0.1.2|07/15/25 - 21:28|Provides the fetch API.|
 |[fs](./packages/fs)|0.1.7|07/19/25 - 12:25|Provides the fs object.|
-|[listener](./packages/listener)|0.1.1|07/15/25 - 21:28|Event listeners for JSCore.|
+|[listener](./packages/listener)|0.1.2|07/19/25 - 22:48|Event listeners for JSCore.|
 |[print-events](./packages/print-events)|0.1.0|07/13/25 - 15:36|Saves a JSON file of all available events.|
 |[promise](./packages/promise)|0.1.0|06/30/25 - 10:48|Provides the promise object.|
 |[pully](./packages/pully)|0.1.12|07/18/25 - 15:37|Package manager.|
@@ -68,6 +68,6 @@
 |[text](./packages/text)|0.1.7|07/18/25 - 14:03|Helper methods for Text related things.|
 |[timer](./packages/timer)|0.1.0|07/06/25 - 13:30|Provide the setTimeout and setInterval methods.|
 |[translate](./packages/translate)|0.1.2|07/18/25 - 16:34|Adds a small button next to each message to translate that message with LibreTranslate.|
-|[updater](./packages/updater)|0.1.3|07/19/25 - 12:25|Notify you when there is an update.|
+|[updater](./packages/updater)|0.1.4|07/19/25 - 22:48|Notify you when there is an update.|
 |[yarn-extra](./packages/yarn-extra)|0.1.0|07/13/25 - 00:00|Yarn helper functions.|
 <!--end:packages-->
