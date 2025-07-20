@@ -45,8 +45,8 @@
     "description": "Dummy package."
   },
   "pully": {
-    "version": "0.1.12",
-    "updated": 1752849445,
+    "version": "0.1.13",
+    "updated": 1753029425,
     "description": "Package manager."
   },
   "command": {
@@ -65,8 +65,8 @@
     "description": "Provide the setTimeout and setInterval methods."
   },
   "listener": {
-    "version": "0.1.2",
-    "updated": 1752961708,
+    "version": "0.1.3",
+    "updated": 1753029425,
     "description": "Event listeners for JSCore."
   },
   "fabric-api-events": {
