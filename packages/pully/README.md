@@ -9,6 +9,7 @@ Package manager.
 |[rinode](../rinode)|0.1.0|
 |[extract-zip](../extract-zip)|0.1.0|
 |[command](../command)|0.1.0|
+|[listener](../listener)|0.1.0|
 
 // Seed info: [Repository](https://github.com/fabriccore/pully-js) | [Manifest](https://raw.githubusercontent.com/fabriccore/pully-js/refs/heads/master/package.json) | [Release](https://github.com/fabriccore/pully-js/archive/refs/heads/master.zip)
 

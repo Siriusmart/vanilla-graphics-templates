@@ -19,6 +19,7 @@ Notify you when there is an update.
 
 |Version|Updated|Download|
 |---|---|---|
+|0.1.5|07/20/25 - 18:20|[0.1.5.zip](./releases/0.1.5.zip)|
 |0.1.4|07/19/25 - 22:48|[0.1.4.zip](./releases/0.1.4.zip)|
 |0.1.3|07/19/25 - 12:25|[0.1.3.zip](./releases/0.1.3.zip)|
 |0.1.2|07/18/25 - 15:37|[0.1.2.zip](./releases/0.1.2.zip)|
