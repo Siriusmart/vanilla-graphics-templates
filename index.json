@@ -65,8 +65,8 @@
     "description": "Provide the setTimeout and setInterval methods."
   },
   "listener": {
-    "version": "0.1.3",
-    "updated": 1753029425,
+    "version": "0.1.4",
+    "updated": 1753048486,
     "description": "Event listeners for JSCore."
   },
   "fabric-api-events": {
@@ -108,5 +108,10 @@
     "version": "0.1.4",
     "updated": 1752874153,
     "description": "Write on quit config."
+  },
+  "toggle": {
+    "version": "0.1.0",
+    "updated": 1753049124,
+    "description": "Create and use toggleable modules!"
   }
 }

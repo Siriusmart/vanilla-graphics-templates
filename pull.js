@@ -128,6 +128,8 @@ const now = Math.floor(Date.now() / 1000);
                             `Seed "${packageName}" failed test: ${currentManifest.version} is not newer than ${res.version}`,
                         );
                 }
+            } else {
+                pulledManifests[packageName] = res;
             }
         } catch (error) {
             console.log("An error occured when pulling " + packageName);

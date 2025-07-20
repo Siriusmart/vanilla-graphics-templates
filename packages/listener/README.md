@@ -15,6 +15,7 @@ Event listeners for JSCore.
 
 |Version|Updated|Download|
 |---|---|---|
+|0.1.4|07/20/25 - 22:54|[0.1.4.zip](./releases/0.1.4.zip)|
 |0.1.3|07/20/25 - 17:37|[0.1.3.zip](./releases/0.1.3.zip)|
 |0.1.2|07/19/25 - 22:48|[0.1.2.zip](./releases/0.1.2.zip)|
 |0.1.1|07/15/25 - 21:28|[0.1.1.zip](./releases/0.1.1.zip)|

@@ -12,6 +12,8 @@ Notify you when there is an update.
 |[yarn-extra](../yarn-extra)|0.1.0|
 |[fabric-api-events](../fabric-api-events)|0.1.0|
 |[command](../command)|0.1.0|
+|[text](../text)|0.1.0|
+|[config](../config)|0.1.0|
 
 // Seed info: [Repository](https://github.com/fabriccore/updater-js) | [Manifest](https://raw.githubusercontent.com/fabriccore/updater-js/refs/heads/master/package.json) | [Release](https://github.com/fabriccore/updater-js/archive/refs/heads/master.zip)
 
