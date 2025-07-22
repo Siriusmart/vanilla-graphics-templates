@@ -68,7 +68,7 @@
 |[text](./packages/text)|0.1.7|07/18/25 - 14:03|Helper methods for Text related things.|
 |[timer](./packages/timer)|0.1.0|07/06/25 - 13:30|Provide the setTimeout and setInterval methods.|
 |[toggle](./packages/toggle)|0.1.0|07/20/25 - 23:05|Create and use toggleable modules!|
-|[translate](./packages/translate)|0.1.2|07/18/25 - 16:34|Adds a small button next to each message to translate that message with LibreTranslate.|
+|[translate](./packages/translate)|0.1.3|07/22/25 - 14:40|Adds a small button next to each message to translate that message with LibreTranslate.|
 |[updater](./packages/updater)|0.1.5|07/20/25 - 18:20|Notify you when there is an update.|
 |[yarn-extra](./packages/yarn-extra)|0.1.0|07/13/25 - 00:00|Yarn helper functions.|
 <!--end:packages-->

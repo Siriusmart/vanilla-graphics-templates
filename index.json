@@ -95,8 +95,8 @@
     "description": "Notify you when there is an update."
   },
   "translate": {
-    "version": "0.1.2",
-    "updated": 1752852876,
+    "version": "0.1.3",
+    "updated": 1753191628,
     "description": "Adds a small button next to each message to translate that message with LibreTranslate."
   },
   "text": {
