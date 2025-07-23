@@ -263,6 +263,7 @@ const now = Math.floor(Date.now() / 1000);
         readme += "|---|---|---|" + "\n";
 
         readme += versionsJSON.versions
+            .sort(({ updated: a }, { updated: b }) => b - a)
             .map(({ label, updated }) => {
                 updated = strftime("%D - %H:%M", new Date(updated * 1000));
                 return `|${label}|${updated}|[${label}.zip](./releases/${label}.zip)|`;
