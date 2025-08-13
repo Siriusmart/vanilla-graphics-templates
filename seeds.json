@@ -1,25 +1,3 @@
 {
-  "extract-zip": "github:fabriccore/extract-zip-js",
-  "require": "github:fabriccore/require-js",
-  "fetch": "github:fabriccore/fetch-js",
-  "rinode": "github:fabriccore/rinode-js",
-  "promise": "github:fabriccore/promise-js",
-  "fs": "github:fabriccore/fs-js",
-  "console": "github:fabriccore/console-js",
-  "dummy1": "github:fabriccore/dummy1-js",
-  "dummy2": "github:fabriccore/dummy2-js",
-  "pully": "github:fabriccore/pully-js",
-  "command": "github:fabriccore/command-js",
-  "devtools": "github:fabriccore/devtools-js",
-  "timer": "github:fabriccore/timer-js",
-  "listener": "github:fabriccore/listener-js",
-  "yarn-extra": "github:fabriccore/yarn-extra-js",
-  "fabric-api-events": "github:fabriccore/fabric-api-events-js",
-  "print-events": "github:fabriccore/print-events-js",
-  "chat": "github:fabriccore/chat-js",
-  "updater": "github:fabriccore/updater-js",
-  "translate": "github:fabriccore/translate-js",
-  "text": "github:fabriccore/text-js",
-  "config": "github:fabriccore/config-js",
-  "toggle": "github:fabriccore/toggle-js"
+  "blank": "github:siriusmart/vg-template-blank"
 }

@@ -48,6 +48,7 @@
 <!--begin:packages-->
 |Package|Version|Updated|Description|
 |---|---|---|---|
+|[blank](./packages/blank)|0.1.0|08/13/25 - 15:19|Basic template|
 |[chat](./packages/chat)|0.1.0|07/13/25 - 22:02|Helper methods for the in-game chat.|
 |[command](./packages/command)|0.1.7|07/18/25 - 14:03|Declarative command registration.|
 |[config](./packages/config)|0.1.4|07/18/25 - 22:29|Write on quit config.|

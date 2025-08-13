@@ -35,7 +35,7 @@ const now = Math.floor(Date.now() / 1000);
             switch (format) {
                 case "github":
                     seeds[name] = {
-                        manifestURL: `https://raw.githubusercontent.com/${content}/refs/heads/master/package.json`,
+                        manifestURL: `https://raw.githubusercontent.com/${content}/refs/heads/master/template.json`,
                         releaseURL: `https://github.com/${content}/archive/refs/heads/master.zip`,
                         repoURL: `https://github.com/${content}`,
                     };
@@ -97,10 +97,10 @@ const now = Math.floor(Date.now() / 1000);
 
             if (
                 !force &&
-                fs.existsSync(`./packages/${packageName}/package.json`)
+                fs.existsSync(`./packages/${packageName}/template.json`)
             ) {
                 let currentManifest = require(
-                    `./packages/${packageName}/package.json`,
+                    `./packages/${packageName}/template.json`,
                 );
                 let currentVersion = currentManifest.version
                     .split(".")
@@ -167,7 +167,7 @@ const now = Math.floor(Date.now() / 1000);
             JSON.stringify(pulledManifests[name], null, 2),
         );
         fs.writeFileSync(
-            `./packages/${name}/package.json`,
+            `./packages/${name}/template.json`,
             JSON.stringify(pulledManifests[name], null, 2),
         );
 
@@ -234,22 +234,20 @@ const now = Math.floor(Date.now() / 1000);
     );
 
     for (let name of fs.readdirSync("packages")) {
-        let manifest = require(`./packages/${name}/package.json`);
+        let manifest = require(`./packages/${name}/template.json`);
         let versionsJSON = require(`./packages/${name}/versions.json`);
 
         let readme = "# " + name + "\n\n";
 
         readme += manifest.description + "\n\n";
 
-        if (Object.keys(manifest.dependencies).length != 0) {
+        if ((manifest.dependencies ?? []).length != 0) {
             readme += "### Dependencies" + "\n\n";
-            readme += "|Package|Version|" + "\n";
-            readme += "|---|---|" + "\n";
             readme +=
-                Object.entries(manifest.dependencies)
+                manifest.dependencies
                     .map(
-                        ([name, version]) =>
-                            `|${seeds[name] ? `[${name}](../${name})` : name}|${version}|\n`,
+                        (name) =>
+                            `- ${seeds[name] ? `[${name}](../${name})` : name}\n`,
                     )
                     .join("") + "\n";
         }

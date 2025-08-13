@@ -113,5 +113,10 @@
     "version": "0.1.0",
     "updated": 1753049124,
     "description": "Create and use toggleable modules!"
+  },
+  "blank": {
+    "version": "0.1.0",
+    "updated": 1755094769,
+    "description": "Basic template"
   }
 }
