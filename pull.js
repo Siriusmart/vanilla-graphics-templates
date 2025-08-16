@@ -65,7 +65,7 @@ const now = Math.floor(Date.now() / 1000);
     let pulledManifests = {};
 
     let manifestRequests = packagesToPull.map((name) =>
-        limit(() => fetch(seeds[name].manifestURL)),
+        limit(() => fetch(seeds[name].manifestURL, { cache: "no-cache" })),
     );
     let manifestJSONs = await Promise.all(manifestRequests);
 
