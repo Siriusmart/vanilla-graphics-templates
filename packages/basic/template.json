@@ -1,6 +1,6 @@
 {
-  "name": "blank",
-  "version": "0.1.1",
+  "name": "basic",
+  "version": "0.1.0",
   "description": "Basic template",
   "keywords": [],
   "license": "LGPL-3.0-or-later",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/siriusmart/vg-template-blank"
+    "url": "https://github.com/siriusmart/vg-template-basic"
   },
   "dependencies": []
 }
