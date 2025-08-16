@@ -46,6 +46,6 @@
 <!--begin:packages-->
 |Package|Version|Updated|Description|
 |---|---|---|---|
-|[basic](./packages/basic)|0.1.0|08/16/25 - 21:08|Basic template|
+|[basic](./packages/basic)|0.1.1|08/16/25 - 21:22|Basic template|
 |[blank](./packages/blank)|0.1.1|08/16/25 - 21:08|Basic template|
 <!--end:packages-->
