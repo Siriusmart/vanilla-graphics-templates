@@ -1,6 +1,6 @@
 # basic
 
-Basic template
+A simple template providing basic features.
 
 ### Dependencies
 
