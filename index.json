@@ -1,12 +1,17 @@
 {
   "blank": {
-    "version": "0.1.1",
-    "updated": 1755374912,
-    "description": "Basic template"
+    "version": "0.1.2",
+    "updated": 1755960914,
+    "description": "Empty VG template."
   },
   "basic": {
-    "version": "0.1.1",
-    "updated": 1755375743,
-    "description": "Basic template"
+    "version": "0.1.3",
+    "updated": 1755960914,
+    "description": "A simple template providing basic features."
+  },
+  "cs-latex": {
+    "version": "0.1.0",
+    "updated": 1755960914,
+    "description": "Inspired by the IEEE Computer Society magazine."
   }
 }

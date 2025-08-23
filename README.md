@@ -46,6 +46,7 @@
 <!--begin:packages-->
 |Package|Version|Updated|Description|
 |---|---|---|---|
-|[basic](./packages/basic)|0.1.1|08/16/25 - 21:22|Basic template|
-|[blank](./packages/blank)|0.1.1|08/16/25 - 21:08|Basic template|
+|[basic](./packages/basic)|0.1.3|08/23/25 - 15:55|A simple template providing basic features.|
+|[blank](./packages/blank)|0.1.2|08/23/25 - 15:55|Empty VG template.|
+|[cs-latex](./packages/cs-latex)|0.1.0|08/23/25 - 15:55|Inspired by the IEEE Computer Society magazine.|
 <!--end:packages-->

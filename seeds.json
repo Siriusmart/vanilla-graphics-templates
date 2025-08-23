@@ -1,4 +1,5 @@
 {
   "blank": "github:siriusmart/vg-template-blank",
-  "basic": "github:siriusmart/vg-template-basic"
+  "basic": "github:siriusmart/vg-template-basic",
+  "cs-latex": "github:siriusmart/vg-template-cs-latex"
 }
