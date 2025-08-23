@@ -10,8 +10,8 @@
     "description": "A simple template providing basic features."
   },
   "cs-latex": {
-    "version": "0.1.0",
-    "updated": 1755960914,
+    "version": "0.1.1",
+    "updated": 1755967661,
     "description": "Inspired by the IEEE Computer Society magazine."
   }
 }
